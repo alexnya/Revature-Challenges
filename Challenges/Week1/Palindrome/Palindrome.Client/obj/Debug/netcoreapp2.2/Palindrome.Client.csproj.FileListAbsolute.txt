@@ -1,0 +1,4 @@
+C:\Revature\Palindrome\Palindrome.Client\obj\Debug\netcoreapp2.2\Palindrome.Client.csprojAssemblyReference.cache
+C:\Revature\Palindrome\Palindrome.Client\obj\Debug\netcoreapp2.2\Palindrome.Client.csproj.CoreCompileInputs.cache
+C:\Revature\Palindrome\Palindrome.Client\obj\Debug\netcoreapp2.2\Palindrome.Client.AssemblyInfoInputs.cache
+C:\Revature\Palindrome\Palindrome.Client\obj\Debug\netcoreapp2.2\Palindrome.Client.AssemblyInfo.cs
